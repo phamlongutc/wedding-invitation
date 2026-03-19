@@ -1,0 +1,12 @@
+{
+  "name": "wedding-invitation",
+  "version": "1.0.0",
+  "description": "A personalized wedding invitation website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
